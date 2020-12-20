@@ -1,3 +1,5 @@
+/*FOOD DISTRIBUTION SYSTEM*/
+/*DONE BY 20PW02*/
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
@@ -11,7 +13,7 @@ struct rider
     };
 struct rider r[5];
 
-void login()
+void login() /*LOGIN FRAMEWORK*/
 {
      char username[]="Akash", password[]="Foodie12", id[6], p[9];
     int n=1, x, y;
@@ -314,7 +316,7 @@ printf("\n\tDO YOU WANT ANOTHER ORDER (Y=1/N=2) :");
 }
 
 
-    printf("\n\t\t\t\t\t\t\t ================================================\n");
+    printf("\n\t\t\t\t\t\t\t ================================================\n");/*BILL DISPLAY*/
 						printf("\t\t\t\t\t\t\t|               Foodie's Joint                     |\n");
 						printf("\t\t\t\t\t\t\t ================================================\n");
 						printf("\n");
@@ -349,7 +351,7 @@ printf("\n\tDO YOU WANT ANOTHER ORDER (Y=1/N=2) :");
     return 0;
 }
 
-int assignrider()
+int assignrider()      /*ASSIGNING DELIVERY PERSON*/
 {
 
 
