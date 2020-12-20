@@ -1,9 +1,10 @@
 # CP_PS-PACKAGE
-# SEMESTER 1 PACKAGE
-# FOOD DISTRIBUTION SYSTEM
+
+SEMESTER 1 PACKAGE
+
+FOOD DISTRIBUTION SYSTEM
+
 A simple FOOD DISTRIBUTION system with basic useful features.
-CONTRIBUTORS:
-20PW02 Akash A
 This project is an undertaking to create a complete
 food distribution setup to the likes of Zomato and
 Swiggy on a very small scale.The main highlights include
@@ -16,3 +17,5 @@ provided with a bill for his order and also a feedback
 option would be presented.
 Then depending upon his order and available delivery
 men, time for delivery would be notified.
+
+DONE BY :: Akash A - 20PW02
